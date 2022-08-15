@@ -49,6 +49,7 @@ Link Challenge: ```https://msfrog-generator.be.ax```
 ![image](https://user-images.githubusercontent.com/89735990/184590364-4b798b47-105d-44c4-821a-3be69b29b52d.png)
 
 - Sau 7749 lần mò thì mình đã tìm được flag bằng Command ``;cd ../;ls -l; cat * ;/etc/``
+
 Flag: `corctf{sh0uld_h4ve_r3nder3d_cl13nt_s1de_:msfrog:}`
 
 
