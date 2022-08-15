@@ -12,7 +12,7 @@ Link Challenge: ```https://jsonquiz.be.ax/```
 
 ![image](https://user-images.githubusercontent.com/89735990/184585681-c024f6a2-64d5-479b-8bc0-bb44d4831010.png)
 
-- Xem xét lại Source và Network thì mình phát hiện một Request Method là `POST` và có tên là `submit`.
+- Check sơ thì mình phát hiện một Request Method là `POST` và có tên là `submit`.
 
 ![image](https://user-images.githubusercontent.com/89735990/184586024-a70c9f62-3fef-46c6-8725-0bdbe5bbcc30.png)
 
