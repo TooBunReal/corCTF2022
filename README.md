@@ -5,7 +5,7 @@ Link Challenge: ```https://jsonquiz.be.ax/```
 ![image](https://user-images.githubusercontent.com/89735990/184584979-7e4d764d-c4a3-4b93-818c-158ce02d3ef4.png)
 
 - Đại khái thì trang web này là một bộ câu hỏi về Json.
-- Mình thử tìm tài liệu trên mang thì mình thấy được đáp án ở link này: 
+- Mình thử tìm tài liệu trên mạng thì mình thấy được đáp án ở link này: 
 
          `https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/json/json-quiz.html`
 - Sau khi mình trả lời hết tất cả các câu hỏi thì mình lại nhận được kết quả là dưới 30% số điểm dù mình đã lấy toàn bộ đáp án của bộ đề để trả lời.
